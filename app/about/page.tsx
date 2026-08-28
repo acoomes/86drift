@@ -6,13 +6,15 @@ export default function About() {
         
         <div className="prose prose-lg max-w-2xl">
           <p className="text-lg text-neutral-600 leading-relaxed mb-6">
-            86 Drift is Andrew Coomes. Former Formula Drift driver. Product leader 
-            by day, builds software at night.
+            86 Drift is Andrew Coomes's studio.
           </p>
           
           <p className="text-lg text-neutral-600 leading-relaxed mb-6">
-            Based in Portland / Hillsboro, Oregon. Ships tools for independents 
-            and small teams.
+            The name is leftover from racing. The work is software.
+          </p>
+
+          <p className="text-lg text-neutral-600 leading-relaxed mb-6">
+            Portland, Oregon.
           </p>
 
           <div className="mt-12 pt-8 border-t border-neutral-200">

@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: '86 Drift',
-  description: '86 Drift builds software. Portland, Oregon.',
+  description: 'A studio in Portland.',
 };
 
 export default function RootLayout({
@@ -35,7 +35,7 @@ export default function RootLayout({
         {children}
         <footer className="border-t border-neutral-200 mt-24">
           <div className="max-w-4xl mx-auto px-6 py-8 text-sm text-neutral-600">
-            © 2026 86 Drift. Andrew Coomes.
+            © 2026 86 Drift
           </div>
         </footer>
       </body>

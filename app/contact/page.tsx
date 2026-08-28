@@ -5,10 +5,6 @@ export default function Contact() {
         <h1 className="text-4xl font-bold mb-16">Contact</h1>
         
         <div className="max-w-2xl">
-          <p className="text-lg text-neutral-600 mb-8">
-            For inquiries about current or future work.
-          </p>
-
           <div className="space-y-4">
             <p className="text-lg">
               <a 
