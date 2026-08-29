@@ -39,6 +39,20 @@ export default function Home() {
               morning-download.com
             </a>
           </div>
+
+          <div>
+            <p className="text-neutral-600 mb-3">
+              Decisionmakerr — Dice for when you can't pick.
+            </p>
+            <a 
+              href="https://decisionmakerr.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-sm text-neutral-500 hover:text-neutral-900 transition-colors"
+            >
+              decisionmakerr.com
+            </a>
+          </div>
         </div>
       </section>
 
