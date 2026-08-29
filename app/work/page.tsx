@@ -42,6 +42,25 @@ export default function Work() {
               </a>
             </div>
           </article>
+
+          <article className="border-b border-neutral-200 pb-16">
+            <h2 className="text-2xl font-semibold mb-4">
+              Decisionmakerr
+            </h2>
+            <p className="text-lg text-neutral-600 mb-6 leading-relaxed">
+              A dice roller for when you can't pick.
+            </p>
+            <div className="flex items-center gap-4 text-sm">
+              <a 
+                href="https://decisionmakerr.com" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-neutral-500 hover:text-neutral-900 transition-colors"
+              >
+                Visit → decisionmakerr.com
+              </a>
+            </div>
+          </article>
         </div>
       </section>
     </main>
