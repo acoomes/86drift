@@ -14,20 +14,6 @@ export default function Home() {
         <div className="space-y-12">
           <div>
             <p className="text-neutral-600 mb-3">
-              Latch — One-page offers. $29, once.
-            </p>
-            <a 
-              href="https://latch-bice.vercel.app" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="text-sm text-neutral-500 hover:text-neutral-900 transition-colors"
-            >
-              latch-bice.vercel.app
-            </a>
-          </div>
-
-          <div>
-            <p className="text-neutral-600 mb-3">
               Morning Download — A daily briefing.
             </p>
             <a 
