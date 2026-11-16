@@ -59,6 +59,24 @@ export default function Home() {
 
           <div className="border-t border-neutral-100 dark:border-neutral-900 pt-8">
             <div className="flex items-baseline gap-3 mb-2">
+              <h2 className="font-medium">Shelf Control</h2>
+              <span className="text-xs text-neutral-500 dark:text-neutral-500 uppercase tracking-wider">Beta</span>
+            </div>
+            <p className="text-neutral-600 dark:text-neutral-400 mb-2 leading-relaxed">
+              A puzzle game about cats and boxes.
+            </p>
+            <a 
+              href="https://andrewcoomes.com/shelf-control" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-sm text-neutral-500 dark:text-neutral-500 hover:text-neutral-900 dark:hover:text-neutral-100 transition-colors focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-neutral-900 dark:focus-visible:outline-neutral-100"
+            >
+              andrewcoomes.com/shelf-control
+            </a>
+          </div>
+
+          <div className="border-t border-neutral-100 dark:border-neutral-900 pt-8">
+            <div className="flex items-baseline gap-3 mb-2">
               <h2 className="font-medium">Chock</h2>
               <span className="text-xs text-neutral-500 dark:text-neutral-500 uppercase tracking-wider">Beta</span>
             </div>
